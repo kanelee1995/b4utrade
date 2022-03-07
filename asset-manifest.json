@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/b4utrade/static/css/main.6a9a80d6.chunk.css",
-    "main.js": "/b4utrade/static/js/main.317460d4.chunk.js",
-    "main.js.map": "/b4utrade/static/js/main.317460d4.chunk.js.map",
+    "main.js": "/b4utrade/static/js/main.46121a03.chunk.js",
+    "main.js.map": "/b4utrade/static/js/main.46121a03.chunk.js.map",
     "runtime-main.js": "/b4utrade/static/js/runtime-main.c903d00f.js",
     "runtime-main.js.map": "/b4utrade/static/js/runtime-main.c903d00f.js.map",
     "static/css/2.69acafaa.chunk.css": "/b4utrade/static/css/2.69acafaa.chunk.css",
@@ -29,6 +29,6 @@
     "static/css/2.69acafaa.chunk.css",
     "static/js/2.fb23a077.chunk.js",
     "static/css/main.6a9a80d6.chunk.css",
-    "static/js/main.317460d4.chunk.js"
+    "static/js/main.46121a03.chunk.js"
   ]
 }
