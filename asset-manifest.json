@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/b4utrade/static/css/main.6a9a80d6.chunk.css",
+    "main.css": "/b4utrade/static/css/main.33e19770.chunk.css",
     "main.js": "/b4utrade/static/js/main.80f24ded.chunk.js",
     "main.js.map": "/b4utrade/static/js/main.80f24ded.chunk.js.map",
     "runtime-main.js": "/b4utrade/static/js/runtime-main.c903d00f.js",
@@ -16,7 +16,7 @@
     "static/js/5.acf5042e.chunk.js.map": "/b4utrade/static/js/5.acf5042e.chunk.js.map",
     "index.html": "/b4utrade/index.html",
     "static/css/2.69acafaa.chunk.css.map": "/b4utrade/static/css/2.69acafaa.chunk.css.map",
-    "static/css/main.6a9a80d6.chunk.css.map": "/b4utrade/static/css/main.6a9a80d6.chunk.css.map",
+    "static/css/main.33e19770.chunk.css.map": "/b4utrade/static/css/main.33e19770.chunk.css.map",
     "static/js/2.534486c9.chunk.js.LICENSE.txt": "/b4utrade/static/js/2.534486c9.chunk.js.LICENSE.txt",
     "static/js/3.098108f7.chunk.js.LICENSE.txt": "/b4utrade/static/js/3.098108f7.chunk.js.LICENSE.txt",
     "static/js/4.6f0be41c.chunk.js.LICENSE.txt": "/b4utrade/static/js/4.6f0be41c.chunk.js.LICENSE.txt",
@@ -28,7 +28,7 @@
     "static/js/runtime-main.c903d00f.js",
     "static/css/2.69acafaa.chunk.css",
     "static/js/2.534486c9.chunk.js",
-    "static/css/main.6a9a80d6.chunk.css",
+    "static/css/main.33e19770.chunk.css",
     "static/js/main.80f24ded.chunk.js"
   ]
 }
